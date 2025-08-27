@@ -1,7 +1,11 @@
 # Bootstrap-Basics-Assignment
 In this project I created a form where I used the bootstrap grid system to lay out the form and the first and last name fields side by side. I chose a dark theme to make the card stand out from the default white background. I also changed the text to be white as to make the text readable on the dark background. The forms all have required fields and won't allow you to submit without all the fields being filled out.
+
 The table was created using a dark theme with striped rows to make the table easier to read. The table also scales due to the table responsive and there is a hover effect when the mouse is over any of the rows. I chose to hard code popular TV show protagonists such as Dexter Morgan from "Dexter" and Walter White from "Breaking Bad".
+
 The image section has placeholder images with a blue background to make them stand out from the white background. The images both have image fluid so it scales with the page, and the second image has the rounded circle style.
+
 The button section has a button always visible on the screen with the style of "btn-success" and there is a max width to make sure it doesn't span across the whole screen. 
-The button that can't be seen when scaled down is in a "btn-danger" style. It uses "d-none" when scaled down to mobile sizes to ensure it can't be seen unless the browser is at a desktop size
+The button that can't be seen when scaled down is in a "btn-danger" style. It uses "d-none" when scaled down to mobile sizes to ensure it can't be seen unless the browser is at a desktop size.
+
 The nav bar uses bootstrap to style the list items to be lined up horizontally instead of vertically. It also shrinks to a hamburger menu when scaled to a mobile size.
